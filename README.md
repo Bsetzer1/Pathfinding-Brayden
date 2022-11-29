@@ -1,2 +1,2 @@
-# Pathfinding-Brayden
- FormationalMovement with A* Pathfinding
+# FormationalMovement-Brayden
+ Formational Movement HW2 
